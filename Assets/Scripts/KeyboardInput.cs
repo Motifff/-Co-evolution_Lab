@@ -35,7 +35,7 @@ public class KeyboardInput : MonoBehaviour
                 _rotateAngle = -30;
             }
         }
-
+        // core code to se the rotation to neck
         SetZRotation(_rotateAngle);
         if(!Input.anyKeyDown)
         {
