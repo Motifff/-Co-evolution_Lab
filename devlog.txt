@@ -1,0 +1,11 @@
+For the initial project for DFPI
+https://github.com/Motifff/-Co-evolution_Lab
+
+I have done two MAJOR contributions
+
+1.  Binding stone rigid bodies to the skeletal system 
+    and orienting skeletal animation to 2D space in Unity
+2.  Use the tutorial to create a sea of particles 
+    and the degree of skeletal motion bound to 
+    the amplitude of the waves.
+    Tutorial Link: https://rafalwilinski.medium.com/tutorial-particle-sea-in-unity3d-70ff1350fa9e
